@@ -1,19 +1,24 @@
+NAME: HARITHA RAMESH
+
+REFERENCE NUMBER: 23003324
+
+DEPARTMENT: CSE(CYBER SECURITY)
 # Ex-10-BOOTSTRAP
 ## Ex-10(a)
 ## AIM:
-Create a Responsive feedback form for a virtual workshop on Constructing Modern Websites built with Bootstrap.
+To create a Responsive feedback form for a virtual workshop on Constructing Modern Websites built with Bootstrap.
 
 ## DESIGN STEPS: 10(a)
-Step 1:
-Initialize the HTML document
+### Step 1:
+Initialize the HTML document.
 
-Step 2:
-Create the body structure
+### Step 2:
+Create the body structure.
 
-Step 3:
-Construct the form
+### Step 3:
+Construct the form.
 
-Step 4:
+### Step 4:
 Add a submit button and Link Bootstrap JavaScript.
 
 ## CODE: 10(a)
@@ -106,22 +111,22 @@ This code creates a responsive feedback form for a virtual workshop on construct
 
 # Ex-10(b)
 ## AIM:
-Create a Responsive student registration form for ABC Engineering College built with Bootstrap.
+ To create a Responsive student registration form for ABC Engineering College built with Bootstrap.
 
 ## DESIGN STEPS: 10(b)
-Step 1:
+### Step 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-Step 2:
+### Step 2:
 Create a container for the form and add a heading.
 
-Step 3:
+### Step 3:
 Inside the form, create form groups for the student’s name, email, and course.
 
-Step 4:
+### Step 4:
 Add a submit button for the form.
 
-Step 5:
+### Step 5:
 Link the Bootstrap JavaScript file at the end of the body.
 
 ## CODE: 10(b)
@@ -215,22 +220,22 @@ Link the Bootstrap JavaScript file at the end of the body.
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
 # Ex-10(c)
 ## AIM:
-Develop a program to structure vertical form layouts which handle form validation in bootstrap.
+To develope a program to structure vertical form layouts which handle form validation in bootstrap.
 
 ## DESIGN STEPS: 10(c)
-Step 1:
+### Step 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-Step 2:
+### Step 2:
 Create a container for the form and add a heading.
 
-Step 3:
+### Step 3:
 Inside the form, create a form group for the name input field. Add the required attribute to the input field for validation.
 
-Step 4:
+### Step 4:
 Add a submit button for the form.
 
-Step 5:
+### Step 5:
 Add a script to handle the form validation on submit.
 
 ## CODE: 10(c)
@@ -306,22 +311,22 @@ This code develops a program to structure vertical form layouts which handle for
 
 # Ex-10(d)
 ## AIM:
-Create a basic email login form in Bootstrap with validation function.
+ To create a basic email login form in Bootstrap with validation function.
 
 ## DESIGN STEPS: 10(d)
-Step 1:
+### Step 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-Step 2:
+### Step 2:
 Create a container for the form and add a heading.
 
-Step 3:
+### Step 3:
 Inside the form, create a form group for the email input field. Add the required attribute to the input field for validation.
 
-Step 4:
+### Step 4:
 Add a submit button for the form.
 
-Step 5:
+### Step 5:
 Add a script to handle the form validation on submit.
 
 ## CODE: 10(d)
