@@ -121,7 +121,7 @@ Initialize the HTML document with the necessary Bootstrap links.
 Create a container for the form and add a heading.
 
 ### Step 3:
-Inside the form, create form groups for the student’s name, email, and course.
+Inside the form, create form groups for the student’s name, email, and gender.
 
 ### Step 4:
 Add a submit button for the form.
